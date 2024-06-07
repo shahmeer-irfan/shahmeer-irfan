@@ -18,7 +18,6 @@
 <h2 align="center">🌐 Socials:</h2>
 
 <p align="center">
-  <a href="https://behance.net/ShahmeerIrfan"><img src="https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white" alt="Behance"></a>
   <a href="https://facebook.com/ShahmeerIrfan"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook"></a>
   <a href="https://instagram.com/shahmpooh"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://linkedin.com/in/ShahmeerIrfan"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
