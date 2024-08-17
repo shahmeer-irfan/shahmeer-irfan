@@ -1,5 +1,5 @@
 ## HEY!
-🔭I’m currently working on React and TypeScript<br>🌱 I’m currently learning Next js, python and Machine learning<br><br>💬 Ask me about React and ML<br><br>📫 How to reach me: shameerirfan124@gmail.com<br><br>You could leave me alone in a dark forest with no assets, and I would still manage to learn tons of things in just a matter of minutes.
+🔭I’m currently working on Python and TypeScript<br>🌱 I’m currently learning Next js, python and Machine learning<br><br>💬 Ask me about React and ML<br><br>📫 How to reach me: shameerirfan124@gmail.com<br><br>You could leave me alone in a dark forest with no assets, and I would still manage to learn tons of things in just a matter of minutes.
 
 
 ## 🌐 Socials:
