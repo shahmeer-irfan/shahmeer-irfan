@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🔭 I’m currently working on Generative AI (GenAI)  <br>🌱 I’m currently learning Machine Learning and GenAI  <br>💬 Ask me about AI Engineering  <br>📫 How to reach me: shameerirfan124@gmail.com  <br>⚡ Fact about me: I also create creative content on Instagram :D
 
 
